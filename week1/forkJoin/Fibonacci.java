@@ -1,3 +1,5 @@
+package week1.forkJoin;
+
 public class Fibonacci {
 
   static int fib(int n) {
