@@ -3,6 +3,11 @@ package week1.forkJoin.labs;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
+/**
+ * Exercise 3: Parallel Matrix Multiplication (Advanced Challenge)
+ * This exercise challenges you to implement parallel matrix multiplication
+ * using the Fork/Join Framework.-Recursiver
+ */
 public class MatrixMultiplier extends RecursiveTask<MatrixMultiplier.Matrix> {
 
   static class Matrix {
