@@ -4,5 +4,5 @@ This project dives deep into Java Reflection and Annotations, where I explore dy
 
 #### Reflection and Annotation Labs
 
-- <strong>Exercise #1</strong>: [ Create a custom annotation @LogExecutionTime to log the execution time of a method](./logger)
-- <strong>Exercise #2</strong>: [Implement a class loader that can load classes from a custom directory at runtime using reflection](./classloader/)
+- <strong>Exercise #1</strong>: [ Create a custom annotation @LogExecutionTime to log the execution time of a method](./labs/logger)
+- <strong>Exercise #2</strong>: [Implement a class loader that can load classes from a custom directory at runtime using reflection](./labs/classloader/)
