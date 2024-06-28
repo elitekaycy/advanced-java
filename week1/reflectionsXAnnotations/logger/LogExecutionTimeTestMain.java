@@ -1,5 +1,28 @@
 package week1.reflectionsXAnnotations.logger;
 
+interface LogInterface {
+  @LogExecutionTime
+  void tryLogger() throws InterruptedException;
+}
+
+class LogInterfaceClass implements LogInterface {
+
+  public LogInterfaceClass() {
+  }
+
+  @Override
+  @LogExecutionTime
+  public void tryLogger() throws InterruptedException {
+    try {
+      Thread.sleep(1000);
+    } catch (InterruptedException e) {
+      Thread.currentThread().interrupt();
+    }
+    System.out.println("Service method executed");
+  }
+
+}
+
 public class LogExecutionTimeTestMain {
 
   public static void main(String[] args) throws InterruptedException {
