@@ -1,16 +1,23 @@
-- [week1](./week1)
-- [week2](./week2)
+# Java Core Advanced Level Upskilling Labs
 
-#### run (week2 patterns)
+Java Core Advanced Level Upskilling labs repository.
 
-#### run the sh script to build the class path
+- **Week 1**: Labs focusing on advanced Java fundamentals and concurrency
 
-```
- ./build.sh
-```
+  - [Week 1 Labs Directory](./week1)
 
-#### run this command with the path that containes main
+- **Week 2**: Labs covering design patterns, testing frameworks, and Spring Cloud
 
-```
-java -cp out com.creationalPatterns.FactoryPattern.TestShape
-```
+  - [Week 2 Labs Directory](./week2)
+
+- **Week 3**: Labs exploring Java 17+ features, reactive and functional programming, and cloud native development
+
+  - [Week 3 Labs Directory](./week3)
+
+- **Week 4**: Labs on build tools, continuous delivery, and low-level Java concepts
+
+  - [Week 4 Labs Directory](./week4)
+
+- **Week 5**: Labs integrating Java with cloud platforms, big data frameworks, security, and machine learning
+
+  - [Week 5 Labs Directory](./week5)
