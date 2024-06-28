@@ -4,28 +4,12 @@ Labs repository for Week 1 of the Java Core Advanced Level Upskilling program.
 
 ## Week 1 Labs
 
-- **Concurrency Advanced Topics**: Parallel Fibonacci Calculation using Fork/Join Framework
-- Directory: [forkJoin/labs](./forkJoin/labs)
+- **Concurrency Advanced Topics**: [Parallel Fibonacci Calculation using Fork/Join Framework](./forkJoin/labs)
 
-- **Concurrency Essentials**: Introduction to Java NIO (Non-Blocking IO)
+- **Concurrency Essentials**: [Introduction to Java NIO (Non-Blocking IO)](./nio/labs)
 
-  - Directory: [nio/labs](./nio)
+- **Java Reflection and Annotations**: [Dynamic Class Loading with Reflection](./reflectionXannotations/)
 
-- **Java Reflection and Annotations**: Dynamic Class Loading with Reflection
+- **Distributed Systems & Big Data**: [Introduction to Apache Spark](./spark/labs)
 
-  - Directory: [reflection-annotations/labs](./reflectionXannotations/)
-
-- **Distributed Systems & Big Data**: Introduction to Apache Spark
-
-  - Directory: [spark/labs](./spark/labs)
-
-- **Java Memory Model (JMM)**: Understanding Java Memory Model
-  - Directory: [jmm/labs](./jmm/labs)
-- **Concurrency Advanced Topics**
-
-  - **Parallel Fibonacci Calculation with Fork/Join Framework**
-    - Directory: [forkJoin/labs](./forkJoin/labs)
-
-## Additional Resources
-
-Each lab directory contains exercises, code samples
+- **Java Memory Model (JMM)**: [Understanding Java Memory Model](./jmm/labs)
