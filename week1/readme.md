@@ -1,3 +1,7 @@
+## Overview
+
+This repository contains the Week 1 labs for the Java Core Advanced Level Upskilling program. The labs cover a variety of advanced Java topics, providing hands-on experience with essential concepts in concurrency, reflection, annotations, distributed systems, and the Java Memory Model
+
 # Labs
 
 Labs repository for Week 1 of the Java Core Advanced Level Upskilling program.
@@ -6,7 +10,7 @@ Labs repository for Week 1 of the Java Core Advanced Level Upskilling program.
 
 - **Concurrency Advanced Topics**: [Parallel Fibonacci Calculation using Fork/Join Framework](./forkJoin/labs)
 
-- **Concurrency Essentials**: [Introduction to Java NIO (Non-Blocking IO)](./nio/labs)
+- **Concurrency Essentials**: [Introduction to Java NIO (Non-Blocking IO)](./nio/)
 
 - **Java Reflection and Annotations**: [Dynamic Class Loading with Reflection](./reflectionXannotations/)
 

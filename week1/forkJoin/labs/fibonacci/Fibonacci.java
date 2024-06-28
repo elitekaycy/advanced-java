@@ -1,4 +1,4 @@
-package week1.forkJoin.labs;
+package week1.forkJoin.labs.fibonacci;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases a custom Java class loader implementation capable of dynamically loading classes annotated with `@Loadable`. Using reflection, the application demonstrates how to invoke methods on these dynamically loaded classes based on runtime annotations.
+This project demonstrates a custom Java class loader capable of dynamically loading classes annotated with @Loadable. Using reflection, it allows invocation of annotated methods at runtime. Key components include CustomClassLoader for loading from directories, CustomClassLoaderTestMain for demonstration, Loadable Annotation for marking dynamic classes, and LoadableClass examples.
 
 ### Components
 

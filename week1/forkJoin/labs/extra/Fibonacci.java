@@ -1,4 +1,4 @@
-package week1.forkJoin;
+package week1.forkJoin.labs.extra;
 
 public class Fibonacci {
 

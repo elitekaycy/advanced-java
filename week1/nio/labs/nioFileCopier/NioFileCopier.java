@@ -1,4 +1,4 @@
-package week1.nio;
+package week1.nio.labs.nioFileCopier;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

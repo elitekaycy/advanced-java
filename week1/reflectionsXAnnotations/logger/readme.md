@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple implementation of a custom `LogExecutionTime` annotation in Java, along with a corresponding handler to log the execution time of methods annotated with `@LogExecutionTime`. The approach uses reflection and the proxy pattern to intercept method calls and measure their execution duration.
+In this project, I've implemented a custom LogExecutionTime annotation in Java to log the execution time of methods. Alongside the annotation, I've developed a handler using reflection and the proxy pattern. This handler intercepts method calls annotated with @LogExecutionTime, measuring their execution duration. This approach showcases how reflection can be leveraged to enhance method logging dynamically, demonstrating practical use cases for annotations in Java applications.
 
 ### Components
 
@@ -25,5 +25,5 @@ javac -d out *.java
 Compile the Java files using the following command in your current directory:
 
 ```bash
-javac -d out *.java
+java -cp out out.week1.reflectionsXAnnotations.logger.LogExecutionTimeTestMain
 ```

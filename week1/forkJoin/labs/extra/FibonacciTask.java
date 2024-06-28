@@ -1,4 +1,4 @@
-package week1.forkJoin;
+package week1.forkJoin.labs.extra;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

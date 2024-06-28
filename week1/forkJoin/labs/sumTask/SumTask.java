@@ -1,4 +1,4 @@
-package week1.forkJoin.labs;
+package week1.forkJoin.labs.sumTask;
 
 import java.util.Arrays;
 import java.util.concurrent.ForkJoinPool;

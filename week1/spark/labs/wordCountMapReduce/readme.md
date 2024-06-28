@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple MapReduce implementation in Java to count the frequency of words in a text file. The program includes methods for reading a file line by line, mapping the words to their counts, and reducing the intermediate results to get the final word counts.
+This project showcases my implementation of a simple MapReduce framework in Java aimed at counting word frequencies in a text file. I've designed methods to read the file line by line, map words to their respective counts, and reduce the intermediate results to produce the final word counts.
 
 ### Components
 
