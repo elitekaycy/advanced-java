@@ -12,6 +12,8 @@ java 21
 
 The project is structured as follows:
 
+```
+
 ├── pom.xml
 ├── src
 │ └── main
@@ -22,6 +24,8 @@ The project is structured as follows:
 │ └── resources
 │ └── content1.txt
 └── target
+
+```
 
 ## The Spark Program
 
