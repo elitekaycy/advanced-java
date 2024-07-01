@@ -104,6 +104,6 @@ mvn package
 To run the application, execute the following command:
 
 ```sh
-java -jar target/sparks-1.0-SNAPSHOT.jar
+java -jar target/sparks.jar
 
 ```
