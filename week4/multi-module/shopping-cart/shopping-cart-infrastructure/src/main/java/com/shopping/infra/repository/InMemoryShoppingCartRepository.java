@@ -1,4 +1,4 @@
-package com.shopping.shopping_cart_infrastructure.repository;
+package com.shopping.infra.repository;
 
 import java.util.HashMap;
 import java.util.Map;

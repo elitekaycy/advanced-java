@@ -37,16 +37,18 @@
 
     <dependency>
       <groupId>com.shopping</groupId>
-      <artifactId>shopping-cart-infrastructure</artifactId>
+      <artifactId>app</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
 
     <dependency>
       <groupId>com.shopping</groupId>
-      <artifactId>shopping-cart-application</artifactId>
+      <artifactId>infra</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
+
 	</dependencies>
+
 
 	<build>
 		<plugins>

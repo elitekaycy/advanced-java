@@ -1,4 +1,4 @@
-package com.shopping.shopping_cart_application.service;
+package com.shopping.app.service;
 
 import java.util.List;
 

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import com.shopping.cart.domain.aggregates.ShoppingCart;
 import com.shopping.cart.domain.entities.Cart;
-import com.shopping.shopping_cart_application.service.ShoppingCartService;
+import com.shopping.app.service.ShoppingCartService;
 
 @RestController
 @RequestMapping("/carts")

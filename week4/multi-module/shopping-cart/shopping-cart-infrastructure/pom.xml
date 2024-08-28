@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.shopping</groupId>
-	<artifactId>shopping-cart-infrastructure</artifactId>
+	<artifactId>infra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>shopping-cart-infrastructure</name>
 	<description>Shopping cart infastructure</description>
@@ -35,18 +35,19 @@
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
 
-   <dependency>
-      <groupId>com.shopping</groupId>
-      <artifactId>shopping-cart-application</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency>
-
+   <!---->
+   <!-- <dependency> -->
+   <!--    <groupId>com.shopping</groupId> -->
+   <!--    <artifactId>app</artifactId> -->
+   <!--    <version>0.0.1-SNAPSHOT</version> -->
+   <!--  </dependency> -->
+   <!---->
 
     <dependency>
       <groupId>com.shopping</groupId>
       <artifactId>cart</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-     </dependency>
+    </dependency>
 	</dependencies>
 
 	<build>
@@ -54,6 +55,17 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+         <executions>
+            <execution>
+              <id>repackage</id>
+              <goals>
+                <goal>repackage</goal>
+              </goals>
+              <configuration>
+                <skip>true</skip>
+              </configuration>
+            </execution>
+      </executions>
 			</plugin>
 		</plugins>
 	</build>
