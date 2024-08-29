@@ -5,11 +5,6 @@ public class Order {
   private String name;
   private Double amount;
 
-  public Order(String name, Double i) {
-    this.name = name;
-    this.amount = i;
-  }
-
   public Double getAmount() {
     return amount;
   }
