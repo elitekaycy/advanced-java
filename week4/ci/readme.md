@@ -1,6 +1,6 @@
 # Project Overview
 
-![Project Link](https://github.com/elitekaycy/ci-jenkins)
+[Project - https://github.com/elitekaycy/ci-jenkins](https://github.com/elitekaycy/ci-jenkins)
 
 ![architecture img](./docs/javamvn.png)
 
