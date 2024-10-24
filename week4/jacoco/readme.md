@@ -4,9 +4,8 @@ This project demonstrates how to use JaCoCo to measure test coverage in the Math
 which provides basic mathematical operations.
 
 ![Jacoco coverage](./docs/test-jacoco.PNG)
-![Jacoco coverage unfinished](./docs/test-unf.png)
-![Jacoco coverage](./docs/jac.png)
-
+![Jacoco coverage unfinished](./docs/test-unf.PNG)
+![Jacoco coverage](./docs/jac.PNG)
 
 ### Steps to Add JaCoCo
 - Add the JaCoCo plugin to the pom.xml:

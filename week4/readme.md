@@ -5,3 +5,4 @@ These labs showcase advanced Java development concepts, including complex projec
 ## Labs
 
 - [**Mastering Build Automation (Multi module)**](./multi-module/)
+- [**Jacoco test coverage report**](./jacoco/)
