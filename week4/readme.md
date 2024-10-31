@@ -7,3 +7,4 @@ These labs showcase advanced Java development concepts, including complex projec
 - [**Mastering Build Automation (Multi module)**](./multi-module/)
 - [**Jacoco test coverage report**](./jacoco/)
 - [**CI/CD pipeline with Jenkins,Docker**](./ci/)
+- [**Thread(Processing task**)](./thread/)
